@@ -1,4 +1,4 @@
-import { VisibilityType } from "@prisma/client";
+// import { VisibilityType } from "@prisma/client";
 import { Game, Team, TeamPlayer, TeamRoster, User } from '@prisma/client'
 
 export interface SiteAdminDashboardData {
@@ -23,7 +23,7 @@ export interface PlayerCard {
   id: number
   description: string | null
   location: string | null
-  visibility: VisibilityType
+//   visibility: VisibilityType
 }
 
 export type WithRequiredProperty<Type, Key extends keyof Type> = Type & {
