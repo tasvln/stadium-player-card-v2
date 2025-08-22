@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "name": "the void",
+    "img": "/images/card-assets/icons/assets/the-void.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/the-void.png",
+    "type": "free",
+    "price": 0,
+    "artist": "blvkhvnd"
+  },
+  {
+    "id": 1,
+    "name": "the wall",
+    "img": "/images/card-assets/icons/assets/the-wall.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/the-wall.png",
+    "type": "free",
+    "price": 0,
+    "artist": "blvkhvnd"
+  },
+  {
+    "id": 2,
+    "name": "death's hvnd",
+    "img": "/images/card-assets/icons/assets/deaths-hvnd.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/deaths-hvnd.png",
+    "type": "free",
+    "price": 0,
+    "artist": "blvkhvnd"
+  },
+  {
+    "id": 3,
+    "name": "crossguard",
+    "img": "/images/card-assets/icons/assets/crossing-guard.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/crossing-guard.png",
+    "type": "free",
+    "price": 0,
+    "artist": "shields"
+  },
+  {
+    "id": 4,
+    "name": "a rose",
+    "img": "/images/card-assets/icons/assets/rose.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/rose.png",
+    "type": "free",
+    "price": 0,
+    "artist": "shields"
+  },
+  {
+    "id": 5,
+    "name": "the orb",
+    "img": "/images/card-assets/icons/assets/orb.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/orb.png",
+    "type": "free",
+    "price": 0,
+    "artist": "shields"
+  },
+  {
+    "id": 6,
+    "name": "the eye",
+    "img": "/images/card-assets/icons/assets/eye.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/eye.png",
+    "type": "free",
+    "price": 0,
+    "artist": "shields"
+  },
+  {
+    "id": 7,
+    "name": "diamond",
+    "img": "/images/card-assets/icons/assets/diamond.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/diamond.png",
+    "type": "free",
+    "price": 0,
+    "artist": "shields"
+  },
+  {
+    "id": 8,
+    "name": "scales",
+    "img": "/images/card-assets/icons/assets/justice.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/justice.png",
+    "type": "free",
+    "price": 0,
+    "artist": "shields"
+  },
+  {
+    "id": 9,
+    "name": "necklace",
+    "img": "/images/card-assets/icons/assets/necklace.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/necklace.png",
+    "type": "free",
+    "price": 0,
+    "artist": "shields"
+  },
+  {
+    "id": 10,
+    "name": "knight",
+    "img": "/images/card-assets/icons/assets/knight.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/knight.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "shields"
+  },
+  {
+    "id": 11,
+    "name": "wash my hvnds",
+    "img": "/images/card-assets/icons/assets/wash-my-hvnds.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/wash-my-hvnds.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 12,
+    "name": "zorb mage",
+    "img": "/images/card-assets/icons/assets/zorb-mage.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/zorb-mage.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 13,
+    "name": "acolyte's pledge",
+    "img": "/images/card-assets/icons/assets/acoltyes-pledge.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/acoltyes-pledge.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 14,
+    "name": "terminator",
+    "img": "/images/card-assets/icons/assets/terminator.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/terminator.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 15,
+    "name": "masked",
+    "img": "/images/card-assets/icons/assets/masked.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/masked.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 16,
+    "name": "headshot",
+    "img": "/images/card-assets/icons/assets/headshot.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/headshot.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 17,
+    "name": "hvnd mountain",
+    "img": "/images/card-assets/icons/assets/hvnd-mountain.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/hvnd-mountain.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 18,
+    "name": "the controller",
+    "img": "/images/card-assets/icons/assets/the-controller.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/the-controller.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  },
+  {
+    "id": 19,
+    "name": "hvnd eternal",
+    "img": "/images/card-assets/icons/assets/hvnd-eternal.png",
+    "thumbnail": "/images/card-assets/icons/thumbnails/hvnd-eternal.png",
+    "type": "paid",
+    "price": 0.02,
+    "artist": "atm"
+  }
+]

@@ -1,0 +1,42 @@
+@font-face {
+  font-family: Surt;
+  src: url('./Surt-Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Surt;
+  src: url('./Surt-Medium.otf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Surt;
+  src: url('./Surt-Bold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Surt;
+  src: url('./Surt-LightOblique.otf');
+  font-weight: 300;
+  font-style: oblique;
+}
+
+@font-face {
+  font-family: Surt;
+  src: url('./Surt-RegularOblique.otf');
+  font-weight: normal;
+  font-style: oblique;
+}
+
+@font-face {
+  font-family: Surt;
+  src: url('./Surt-UltraBold.otf');
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: ultra-expanded;
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "noFrame",
+    "img": "",
+    "thumbnail": "",
+    "price": 0
+  },
+  {
+    "id": 1,
+    "name": "delighted",
+    "img": "/images/card-assets/frames/assets/delighted.png",
+    "thumbnail": "/images/card-assets/frames/thumbnails/delighted.png",
+    "price": 0.01
+  },
+  {
+    "id": 2,
+    "name": "battle",
+    "img": "/images/card-assets/frames/assets/battle.png",
+    "thumbnail": "/images/card-assets/frames/thumbnails/battle.png",
+    "price": 0.03
+  },
+  {
+    "id": 3,
+    "name": "relished",
+    "img": "/images/card-assets/frames/assets/relished.png",
+    "thumbnail": "/images/card-assets/frames/thumbnails/relished.png",
+    "price": 0.07
+  },
+  {
+    "id": 4,
+    "name": "exaulted",
+    "img": "/images/card-assets/frames/assets/exhaulted.png",
+    "thumbnail": "/images/card-assets/frames/thumbnails/exhaulted.png",
+    "price": 0.1
+  }
+]

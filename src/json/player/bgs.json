@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "name": "stadium",
+    "img": "",
+    "thumbnail": "/images/card-assets/bgs/thumbnails/stadium.png",
+    "type": "free",
+    "price": 0,
+    "artist": "Stadium Team",
+    "darkBg": false
+  },
+  {
+    "id": 1,
+    "name": "stadium bg",
+    "img": "/images/card-assets/bgs/assets/stadium-bg.jpg",
+    "thumbnail": "/images/card-assets/bgs/thumbnails/stadium-bg.png",
+    "type": "free",
+    "price": 0,
+    "artist": "Stadium Team",
+    "darkBg": false
+  },
+  {
+    "id": 2,
+    "name": "pledge",
+    "img": "/images/card-assets/bgs/assets/pledge.png",
+    "thumbnail": "/images/card-assets/bgs/thumbnails/pledge.png",
+    "type": "free",
+    "price": 0,
+    "artist": "atm",
+    "darkBg": true
+  },
+  {
+    "id": 3,
+    "name": "Reaper of the HVND",
+    "img": "/images/card-assets/bgs/assets/reaper.jpg",
+    "thumbnail": "/images/card-assets/bgs/thumbnails/reaper.png",
+    "type": "unlock",
+    "when": "accessCard",
+    "price": 0,
+    "artist": "atm",
+    "darkBg": true
+  },
+  {
+    "id": 4,
+    "name": "Wizard of the HVND",
+    "img": "/images/card-assets/bgs/assets/wizard.jpg",
+    "thumbnail": "/images/card-assets/bgs/thumbnails/wizard.png",
+    "type": "unlock",
+    "when": "accessCard",
+    "price": 0,
+    "artist": "atm",
+    "darkBg": true
+  },
+  {
+    "id": 5,
+    "name": "gaia's sinew",
+    "img": "/images/card-assets/bgs/assets/gaias-sinew.jpg",
+    "thumbnail": "/images/card-assets/bgs/assets/gaias-sinew.jpg",
+    "type": "paid",
+    "price": 0.04,
+    "artist": "atm",
+    "darkBg": true
+  },
+  {
+    "id": 6,
+    "name": "black morrow",
+    "img": "/images/card-assets/bgs/assets/black-morrow.jpg",
+    "thumbnail": "/images/card-assets/bgs/assets/black-morrow.jpg",
+    "type": "paid",
+    "price": 0.04,
+    "artist": "atm",
+    "darkBg": true
+  },
+  {
+    "id": 7,
+    "name": "hollow sunset",
+    "img": "/images/card-assets/bgs/assets/hollow-sunset.jpg",
+    "thumbnail": "/images/card-assets/bgs/assets/hollow-sunset.jpg",
+    "type": "paid",
+    "price": 0.04,
+    "artist": "atm",
+    "darkBg": true
+  },
+  {
+    "id": 8,
+    "name": "hall of giants",
+    "img": "/images/card-assets/bgs/assets/hall-of-giants.jpg",
+    "thumbnail": "/images/card-assets/bgs/assets/hall-of-giants.jpg",
+    "type": "paid",
+    "price": 0.04,
+    "artist": "atm + sirsu",
+    "darkBg": true
+  },
+  {
+    "id": 9,
+    "name": "arena",
+    "img": "",
+    "thumbnail": "/images/card-assets/bgs/thumbnails/arena.png",
+    "type": "free",
+    "price": 0,
+    "artist": "Stadium Team",
+    "darkBg": false
+  }
+]

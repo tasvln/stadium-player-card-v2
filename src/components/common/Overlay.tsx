@@ -1,0 +1,15 @@
+import { styled } from 'stitches.config'
+
+import Box from './Box'
+
+const Overlay = styled(Box, {
+  position: 'absolute',
+  zIndex: 2,
+  height: '100%',
+  top: 0,
+  left: 0,
+  background: '$overlay',
+  width: '100%',
+})
+
+export default Overlay
