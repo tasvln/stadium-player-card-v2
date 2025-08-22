@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "git:quick": "git add . && git commit -m 'quick commit' && git push",
-    "postinstall": "prisma generate || true"
+    "git:quick": "git add . && git commit -m 'quick commit' && git push"
   },
   "dependencies": {
     "@debased/contracts": "^0.4.4",
