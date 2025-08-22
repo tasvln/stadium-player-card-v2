@@ -9,4 +9,4 @@ export const vars = {
 export const GOERLI_STADIUM_ADDRESS = tokenAddresses.Stadium[5]
 export const STADIUM_ADDRESS = tokenAddresses.Stadium[1]
 export const GOERLI_PRIZEPOOL_ADDRESS = tokenAddresses.PrizePool[5]
-export const PRIZEPOOL_ADDRESS = tokenAddresses.PrizePool[1]
+// export const PRIZEPOOL_ADDRESS = tokenAddresses.PrizePool[1]

@@ -36,8 +36,8 @@ import { StadiumOut, VolumeIcon } from '@/components/icons'
 import { useModeStore } from '@/store/mode'
 // import { useSession } from 'next-auth/react';
 import { CARD_HEIGHT, CARD_WIDTH, downloadCanvas } from '@/utils/svg';
-import { ConfirmMint } from '@/components/modal';
-import Minting from '@/components/modal/Minting';
+// import { ConfirmMint } from '@/components/modal';
+// import Minting from '@/components/modal/Minting';
 
 type PlayerMintProps = {
   mode: 'mint' | 'edit' | 'test'

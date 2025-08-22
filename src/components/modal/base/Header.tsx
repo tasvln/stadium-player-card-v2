@@ -1,5 +1,5 @@
-import { Box, Button, Flex, Text } from '@/components/base'
-import { CloseIcon } from '@/components/svgs'
+import { Box, Button, Flex, Text } from '@/components/common'
+import { CloseIcon } from '@/components/icons'
 import { styled } from 'stitches.config'
 
 type HeaderProps = {

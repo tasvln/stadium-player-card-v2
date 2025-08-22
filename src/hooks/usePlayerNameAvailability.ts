@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import BadWordFilter from 'bad-words'
-import { getPlayerCards } from '@/contracts/stadium'
+// import { getPlayerCards } from '@/contracts/stadium'
 
 const words = new BadWordFilter()
 
@@ -9,9 +9,9 @@ export const usePlayerNameAvailability = (input: string) => {
   const [profane, setProfane] = useState<boolean>(false)
 
   const checkName = async () => {
-    const players = await getPlayerCards()
-    const playerNames = players.map((player: any) => player.name)
-    const isAvailable = !playerNames.includes(input)
+    // const players = await getPlayerCards()
+    // const playerNames = players.map((player: any) => player.name)
+    const isAvailable = true;
     setState(isAvailable)
 
     const isProfane = words.isProfane(input)
